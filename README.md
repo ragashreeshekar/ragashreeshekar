@@ -16,5 +16,5 @@ Reach out to ragashreeshekar@gmail.com to connect!
 * 🎯 Check out my [Portfolio site](https://ragashreeshekar.github.io)
 
 <center>
-[![Ragashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragashreeshekar)](https://github.com/anuraghazra/github-readme-stats)
+[![Ragashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragashreeshekar)]
 </center>
